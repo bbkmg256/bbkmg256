@@ -5,7 +5,7 @@
 > REPARANDO...
 > REINICIANDO...
 ```
-[https://64.media.tumblr.com/536717044899ba42e2804b601b860c7f/tumblr_mo3e4ulEt41sqxwb4o1_500.gif]
+[[https://64.media.tumblr.com/536717044899ba42e2804b601b860c7f/tumblr_mo3e4ulEt41sqxwb4o1_500.gif]]
 
 ```
 >_
