@@ -8,7 +8,6 @@
 > CARGANDO DEPENDENCIAS................... [ OK ]
 > COMPROBANDO COMPATIBILIDAD.............. [ ERROR ]
 > ENCONTRADO DATOS ENCRIPTADOS, INTENTANDO FUERZA BRUTA...........
-```
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡴⠶⠶⠶⠶⠶⠤⠤⠤⢤⣤⣠⡶⠻⠉⢹⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -53,6 +52,8 @@
    ░    ░  ░    ░ ░ ░░ ░ ░      ░   ░ ░   ░ 
    ░       ░      ░  ░          ░         ░ 
         ░       ░                           
+
+```
 
 <!--
 <p align="center">
